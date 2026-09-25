@@ -44,7 +44,3 @@ Contributions are welcome. If you add design files, firmware, or documentation:
 - Keep changes focused and well-documented
 - Update this README with any new operational details
 - Include clear notes for setup, calibration, or usage changes
-
-## License
-
-Add the project license details here once a license is selected.
